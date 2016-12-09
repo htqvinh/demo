@@ -1,2 +1,6 @@
 #git pull
-Already up-to-date.
+
+-no changes
+  Already up-to-date.
+-else
+  
