@@ -4,5 +4,7 @@
   Already up-to-date.
 -else
   ...
+  
+#git log
 
   
